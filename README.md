@@ -1,2 +1,2 @@
 # Parallax Effect
-[live demo]()
+[live demo](https://parallexeffectapp.netlify.app/)
